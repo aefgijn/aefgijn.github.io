@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://aefgijn.cn/2017/03/12/Frank-Medrano/</loc>
+    
+    <lastmod>2018-11-29T03:58:30.076Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://aefgijn.cn/2018/09/28/on-my-zsh/</loc>
+    
+    <lastmod>2018-11-29T03:57:12.787Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://aefgijn.cn/2017/05/10/video-universe/</loc>
     
     <lastmod>2018-11-28T14:16:37.100Z</lastmod>
@@ -23,14 +37,14 @@
   </url>
   
   <url>
-    <loc>https://aefgijn.cn/2017/04/12/video-OnTheFloor/</loc>
+    <loc>https://aefgijn.cn/2017/04/12/video-dance-movie/</loc>
     
     <lastmod>2018-11-28T14:16:04.428Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://aefgijn.cn/2017/07/05/video-dance02/</loc>
+    <loc>https://aefgijn.cn/2017/07/05/video-dance-battle/</loc>
     
     <lastmod>2018-11-28T14:15:07.024Z</lastmod>
     
@@ -51,16 +65,9 @@
   </url>
   
   <url>
-    <loc>https://aefgijn.cn/2018/09/27/LinuxMint-zsh-on-my-zsh/</loc>
+    <loc>https://aefgijn.cn/2018/09/27/zsh-on-my-zsh/</loc>
     
     <lastmod>2018-11-28T14:13:51.458Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://aefgijn.cn/2018/09/28/LinuxMint-on-my-zsh/</loc>
-    
-    <lastmod>2018-11-28T14:13:31.909Z</lastmod>
     
   </url>
   
@@ -72,7 +79,7 @@
   </url>
   
   <url>
-    <loc>https://aefgijn.cn/2017/02/03/Hexo-build01/</loc>
+    <loc>https://aefgijn.cn/2017/02/03/Hexo-win-GitHub/</loc>
     
     <lastmod>2018-11-28T14:12:50.154Z</lastmod>
     
@@ -89,13 +96,6 @@
     <loc>https://aefgijn.cn/2017/08/06/GoldenDict/</loc>
     
     <lastmod>2018-11-28T14:12:01.313Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://aefgijn.cn/2017/03/12/Frank-Medrano/</loc>
-    
-    <lastmod>2018-11-28T14:11:42.291Z</lastmod>
     
   </url>
   
