@@ -1508,15 +1508,15 @@
     
 
     $(function() {
-      $.get('https://app-router.leancloud.cn/2/route?appId=' + "74Ao3AV8t4SWht9LMFwbYWmE-gzGzoHsz")
+      $.get('https://app-router.leancloud.cn/2/route?appId=' + "EhuVFe8Mx1XAB949gLgTG2BM-gzGzoHsz")
         .done(function ({ api_server }) {
           var Counter = function (method, url, data) {
             return $.ajax({
               method: method,
               url: `https://${api_server}/1.1${url}`,
               headers: {
-                'X-LC-Id': "74Ao3AV8t4SWht9LMFwbYWmE-gzGzoHsz",
-                'X-LC-Key': "iifIBb5kP1Ay7eBQUSrKpxnj",
+                'X-LC-Id': "EhuVFe8Mx1XAB949gLgTG2BM-gzGzoHsz",
+                'X-LC-Key': "D5e5JkJ7WBnj0Ju1beh4sCSt",
                 'Content-Type': 'application/json',
               },
               data: data,
